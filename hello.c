@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Claire and Maricel
+ * Date: 2018/23/08
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Claire - Meteorology\n");
+  printf("Claire - Meteorology, Maricel - Computer Science/Film\n");
 
   return 0;
 }
